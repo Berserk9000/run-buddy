@@ -176,6 +176,7 @@ section {
   }
   .trainers {
     text-align: center;
+    padding: 0;
   }
   .trainer {
     width: 900px;
@@ -183,6 +184,7 @@ section {
     background: #024e76;
     color: #fce138;
     overflow: auto;
+    
   }
   .trainer img {
     width: 35%;
